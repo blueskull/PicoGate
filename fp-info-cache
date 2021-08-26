@@ -1,0 +1,778 @@
+179011368234059
+Components
+0201
+0201 passives
+
+0
+2
+2
+Components
+0202
+0202 filters
+
+0
+4
+4
+Components
+0402
+0402 passives
+
+0
+2
+2
+Components
+0504
+0504 filters
+
+0
+4
+4
+Components
+0603
+0603 passives
+
+0
+2
+2
+Components
+0603X2
+0603 passives x2
+
+0
+2
+2
+Components
+0805
+0805 passives
+
+0
+2
+2
+Components
+0806
+0806 passives
+
+0
+2
+2
+Components
+01005
+1005 passives
+
+0
+2
+2
+Components
+1008
+2520 passives
+
+0
+2
+2
+Components
+1206
+1206 passives
+
+0
+2
+2
+Components
+1808
+1808 passives
+
+0
+2
+2
+Components
+2016-4
+2016 4P crystals
+
+0
+4
+2
+Components
+2220
+2220 passives
+
+0
+2
+2
+Components
+2220X2
+Dual 2220 passives
+
+0
+2
+2
+Components
+2450AT42E0100
+2.4GHz on-ground antenna
+
+0
+4
+1
+Components
+3030
+3030 inductors
+
+0
+2
+2
+Components
+3812
+3812 fuses
+
+0
+2
+2
+Components
+7243
+7343 capacitors
+
+0
+2
+2
+Components
+7266
+7266 inductors
+
+0
+2
+2
+Components
+7343
+7343 capacitors
+
+0
+2
+2
+Components
+8050
+8050 MOV
+
+0
+2
+2
+Components
+BGA24_2.6_4.6_0.5
+BGA71 6.0mm*6.0mm 0.5mm-pitch
+
+0
+24
+3
+Components
+BGA71_6.0_6.0_0.5
+BGA71 6.0mm*6.0mm 0.5mm-pitch
+
+0
+71
+71
+Components
+BGA144_8.0_8.0_0.65
+BGA144 8.0mm*8.0mm 0.65mm-pitch
+
+0
+144
+144
+Components
+CR7915
+CR7915 CM choke
+
+0
+4
+4
+Components
+DFN4_1.0_1.0_0.65
+DFN4 1.0mm*1.0mm 0.65mm pitch
+
+0
+5
+4
+Components
+DFN5_3.3_3.3_0.65
+DFN5 3.3mm*3.3mm 0.65mm-pitch
+
+0
+9
+3
+Components
+DFN5_5.0_6.0_1.27
+DFN5 5.0mm*6.0mm 1.27mm-pitch
+
+0
+5
+3
+Components
+DFN5_8.0_8.0_2.0
+DFN5 8.0mm*8.0mm 2.0mm-pitch
+
+0
+5
+3
+Components
+DFN5_8.0_8.0_2.0_IS
+DFN5 8.0mm*8.0mm 2.0mm-pitch for InnoScience
+
+0
+9
+3
+Components
+DFN5_8.0_8.0_2.0_IS_GS
+DFN5 8.0mm*8.0mm 2.0mm-pitch for InnoScience with GaN Systems compatibility
+
+0
+6
+3
+Components
+DFN5_8.0_8.0_2.0_RW
+DFN5 8.0mm*8.0mm 2.0mm-pitch reduced width
+
+0
+5
+3
+Components
+DFN5_8.0_8.0_2.0_SH
+DFN5 8.0mm*8.0mm 2.0mm-pitch shrunk
+
+0
+5
+3
+Components
+DFN6_1.5_1.5_0.5
+DFN6 1.5mm*1.5mm 0.5mm-pitch
+
+0
+6
+6
+Components
+DFN7_7.0_9.0_1.27
+DFN7 7.0mm*9.0mm 1.27mm-pitch
+
+0
+7
+4
+Components
+DFN8_2.0_2.0_0.5
+DFN8 2.0mm*2.0mm 0.5mm-pitch
+
+0
+9
+8
+Components
+DFN8_2.0_3.0_0.5
+DFN8 2.0mm*3.0mm 0.5mm-pitch
+
+0
+9
+8
+Components
+DFN8_5.0_6.0_1.27_GS
+DFN8 5.0mm*6.0mm 1.27mm-pitch for GaN Systems
+
+0
+10
+3
+Components
+DFN8_6.0_8.0_1.27
+DFN8 6.0mm*8.0mm 1.27mm-pitch
+
+0
+8
+8
+Components
+DFN10_3.0_3.0_0.5
+DFN10 3.0mm*3.0mm 0.5mm-pitch
+
+0
+11
+10
+Components
+DFN12_4.0_3.0_0.5
+DFN10 3.0mm*3.0mm 0.5mm-pitch
+
+0
+13
+12
+Components
+DFN14_5.0_5.0_0.65
+DFN14 5.0mm*5.0mm 0.65mm-pitch
+
+0
+14
+14
+Components
+DFN14_5.0_5.0_0.65_PS
+DFN14 5.0mm*5.0mm 0.65mm-pitch pin-swapped
+
+0
+14
+14
+Components
+LFPAK56
+LFPAK56 4.9mm*6.0mm 1.27mm-pitch
+
+0
+6
+3
+Components
+LGA54_9.5_10.5_0.6
+LGA54 9.5mm*10.5mm 0.6mm-pitch
+
+0
+53
+53
+Components
+QFN8_1.2_1.0_0.4
+QFN8 1.2mm*1.0mm 0.4mm-pitch
+
+0
+8
+8
+Components
+QFN12_1.6_1.6_0.4
+QFN12 1.6mm*1.6mm 0.4mm-pitch
+
+0
+12
+12
+Components
+QFN16_3.0_3.0_0.5
+QFN16 3.0mm*3.0mm 0.5mm-pitch
+
+0
+17
+16
+Components
+QFN20_3.0_2.0_0.4
+QFN20 3.0mm*2.0mm 0.4mm-pitch
+
+0
+20
+20
+Components
+QFN20_3.0_3.0_0.4
+QFN20 3.0mm*3.0mm 0.4mm-pitch
+
+0
+21
+20
+Components
+QFN24_4.0_4.0_0.5
+QFN24 4.0mm*4.0mm 0.5mm-pitch
+
+0
+25
+24
+Components
+QFN24_5.5_3.5_0.5
+QFN24 5.5mm*3.5mm 0.5mm-pitch
+
+0
+25
+24
+Components
+QFN28_3.8_5.2_0.5
+QFN28 3.8mm*5.2mm 0.5mm-pitch
+
+0
+28
+28
+Components
+QFN28_4.0_4.0_0.4
+QFN28 4.0mm*4.0mm 0.4mm-pitch
+
+0
+29
+28
+Components
+QFN48_5.0_5.0_0.35
+QFN48 5.0mm*5.0mm 0.35mm-pitch
+
+0
+49
+48
+Components
+QFN48_6.0_6.0_0.4
+QFN48 6.0mm*6.0mm 0.4mm-pitch
+
+0
+49
+48
+Components
+QFN48_7.0_7.0_0.5
+QFN48 7.0mm*7.0mm 0.5mm-pitch
+
+0
+49
+48
+Components
+RAD_10.0_5.0
+Radial 10.0mm diameter 5.0mm pitch
+
+0
+2
+2
+Components
+RAD_12.5_5.0
+Radial 12.5mm diameter 5.0mm pitch
+
+0
+2
+2
+Components
+SC705
+SC70-5 chips
+
+0
+5
+5
+Components
+SC706
+SC70-6 chips
+
+0
+6
+6
+Components
+SMBF
+SMBF diodes 5.3mm*3.6mm
+
+0
+2
+2
+Components
+SO8
+SO8 for chips
+
+0
+8
+8
+Components
+SO8EP
+SO8 for chips with exposed pads
+
+0
+9
+8
+Components
+SOD123F
+SOD123F diodes
+
+0
+2
+2
+Components
+SOD323
+SOD323 diodes
+
+0
+2
+2
+Components
+SOD882
+SOD882 diodes
+
+0
+2
+2
+Components
+SOT23
+SOT23 2.3mm*2.9mm
+
+0
+3
+3
+Components
+SOT89
+SOT89 transistors
+
+0
+4
+3
+Components
+SOT223
+SOT223 transistors
+
+0
+4
+3
+Components
+SOT235
+SOT23-5 2.8mm*2.9mm
+
+0
+5
+5
+Components
+SOT235S
+SOT235 2.8mm*2.9mm short
+
+0
+5
+5
+Components
+SOT236
+SOT23-6 2.8mm*2.9mm
+
+0
+6
+6
+Components
+SOT883
+SOT883 transistors
+
+0
+3
+3
+Components
+TSSOP24_7.8_6.4_0.65
+TSSOP24 7.8mm*6.4mm 0.65mm-pitch
+
+0
+24
+24
+Mechanical
+CMDM_24
+CM/DM filter 24mm
+
+0
+4
+4
+Mechanical
+DIE4227
+Bare die 4.2mm*2.7mm
+
+0
+4
+3
+Mechanical
+DIE4227FC
+Bare die 4.2mm*2.7mm flip chip
+
+0
+2
+2
+Mechanical
+DS1128
+Reduced length microSD slot
+
+0
+12
+8
+Mechanical
+HDR1X3
+HDR 3-pin 1.5mm*1.5mm 2.54mm-pitch
+
+0
+3
+3
+Mechanical
+HDR1X4
+HDR 4-pin 1.5mm*1.5mm 2.54mm-pitch
+
+0
+4
+4
+Mechanical
+HDR1X6
+HDR 6-pin 1.5mm*1.5mm 2.54mm-pitch
+
+0
+6
+6
+Mechanical
+HDR1X8
+HDR 8-pin 1.5mm*1.5mm 2.54mm-pitch
+
+0
+8
+8
+Mechanical
+HDR1X10
+HDR 10-pin 1.5mm*1.5mm 2.54mm-pitch
+
+0
+10
+10
+Mechanical
+HDR1x1
+HDR 1-pin 1.5mm*1.5mm 2.54mm-pitch
+
+0
+1
+1
+Mechanical
+IND_24
+Inductor 24mm
+
+0
+2
+2
+Mechanical
+LGA5_0.5_5.5_1.0
+LGA5 0.5mm*6.6mm 1.0mm-pitch
+
+0
+5
+5
+Mechanical
+LGA12_0.3_8.2_0.7
+LGA12 0.3mm*8.2mm 0.7mm-pitch
+
+0
+12
+12
+Mechanical
+PAD1_0.4_0.4
+PAD 1-pin 0.4mm*0.4mm
+
+0
+1
+1
+Mechanical
+PAD1_0.4_0.4_CN
+PAD 1-pin 0.4mm*0.4mm cornered
+
+0
+1
+1
+Mechanical
+PAD1_0.4_0.5
+PAD 1-pin 0.4mm*0.5mm
+
+0
+1
+1
+Mechanical
+PAD1_0.5_0.5
+PAD 1-pin 0.5mm*0.5mm
+
+0
+1
+1
+Mechanical
+PAD1_0.5_0.5_TH
+PAD 1-pin 0.5mm*0.5mm
+
+0
+3
+1
+Mechanical
+PAD1_0.25_0.25
+PAD 1-pin 0.25mm*0.25mm
+
+0
+1
+1
+Mechanical
+PAD1_1.0_1.0
+PAD 1-pin 1.0mm*1.0mm
+
+0
+1
+1
+Mechanical
+PAD1_2.0_2.0
+PAD 1-pin 2.0mm*2.0mm
+
+0
+1
+1
+Mechanical
+PAD1_3.0_2.0
+PAD 1-pin 3.0mm*2.0mm
+
+0
+1
+1
+Mechanical
+PAD1_5.0_6.0
+PAD 1-pin 6.0mm*6.0mm
+
+0
+1
+1
+Mechanical
+PAD1_8.0_2.0
+PAD 1-pin 8.0mm*2.0mm
+
+0
+1
+1
+Mechanical
+PAD1_8.0_4.0
+PAD 1-pin 8.0mm*4.0mm
+
+0
+1
+1
+Mechanical
+PAD2_1.0_1.0_1.5
+PAD 2-pin 1.0mm*1.0mm 1.5mm-pitch
+
+0
+2
+2
+Mechanical
+PAD4_1.0_1.0_1.5
+PAD 4-pin 2.0mm*1.0mm 1.5mm-pitch
+
+0
+4
+4
+Mechanical
+PAD6_2.0_1.0_1.5
+PAD 6-pin 2.0mm*1.0mm 1.5mm-pitch
+
+0
+6
+6
+Mechanical
+TP_0.5_0.5
+Test point 0.5mm*0.5mm round
+
+0
+1
+1
+Mechanical
+U253-051T
+Flat end micro USB port
+
+0
+9
+4
+Mechanical
+UFL
+Hirose UFL
+
+0
+3
+2
+Mechanical
+VCM_8.5_8.5
+Voice coil motor lens 8.5mm*8.5mm
+
+0
+2
+2
+Mechanical
+VIA12_0.5_8.2_0.7
+VIA12 0.5mm*8.2mm 0.7mm-pitch
+
+0
+12
+12
+Mechanical
+XFMR_24
+Transformer 24mm
+
+0
+4
+4
+Mechanical
+XKTF-0803
+Reduced length microSD slot
+
+0
+13
+6
