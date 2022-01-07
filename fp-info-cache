@@ -1,0 +1,281 @@
+64797030122997
+Mechanical
+CMDM_24
+CM/DM filter 24mm
+
+0
+4
+4
+Mechanical
+DIE4227
+Bare die 4.2mm*2.7mm
+
+0
+4
+3
+Mechanical
+DIE4227FC
+Bare die 4.2mm*2.7mm flip chip
+
+0
+2
+2
+Mechanical
+DS1128
+Reduced length microSD slot
+
+0
+12
+8
+Mechanical
+HDR1X2
+HDR 2-pin 2.54mm-pitch
+
+0
+2
+2
+Mechanical
+HDR1X3
+HDR 3-pin 2.54mm-pitch
+
+0
+3
+3
+Mechanical
+HDR1X4
+HDR 4-pin 2.54mm-pitch
+
+0
+4
+4
+Mechanical
+HDR1X6
+HDR 6-pin 2.54mm-pitch
+
+0
+6
+6
+Mechanical
+HDR1X8
+HDR 8-pin 2.54mm-pitch
+
+0
+8
+8
+Mechanical
+HDR1X10
+HDR 10-pin 2.54mm-pitch
+
+0
+10
+10
+Mechanical
+HDR1x1
+HDR 1-pin 2.54mm-pitch
+
+0
+1
+1
+Mechanical
+HDR2X2
+HDR 4-pin 2.54mm-pitch
+
+0
+4
+4
+Mechanical
+IND_24
+Inductor 24mm
+
+0
+2
+2
+Mechanical
+LGA5_0.5_5.5_1.0
+LGA5 0.5mm*6.6mm 1.0mm-pitch
+
+0
+5
+5
+Mechanical
+LGA12_0.3_8.2_0.7
+LGA12 0.3mm*8.2mm 0.7mm-pitch
+
+0
+12
+12
+Mechanical
+PAD1_0.4_0.4
+PAD 1-pin 0.4mm*0.4mm
+
+0
+1
+1
+Mechanical
+PAD1_0.4_0.4_CN
+PAD 1-pin 0.4mm*0.4mm cornered
+
+0
+1
+1
+Mechanical
+PAD1_0.4_0.5
+PAD 1-pin 0.4mm*0.5mm
+
+0
+1
+1
+Mechanical
+PAD1_0.5_0.5
+PAD 1-pin 0.5mm*0.5mm
+
+0
+1
+1
+Mechanical
+PAD1_0.5_0.5_TH
+PAD 1-pin 0.5mm*0.5mm
+
+0
+3
+1
+Mechanical
+PAD1_0.25_0.25
+PAD 1-pin 0.25mm*0.25mm
+
+0
+1
+1
+Mechanical
+PAD1_0.35_0.35_R
+PAD 1-pin 0.35mm*0.35mm round
+
+0
+1
+1
+Mechanical
+PAD1_1.0_1.0
+PAD 1-pin 1.0mm*1.0mm
+
+0
+1
+1
+Mechanical
+PAD1_2.0_2.0
+PAD 1-pin 2.0mm*2.0mm
+
+0
+1
+1
+Mechanical
+PAD1_3.0_2.0
+PAD 1-pin 3.0mm*2.0mm
+
+0
+1
+1
+Mechanical
+PAD1_5.0_6.0
+PAD 1-pin 6.0mm*6.0mm
+
+0
+1
+1
+Mechanical
+PAD1_8.0_2.0
+PAD 1-pin 8.0mm*2.0mm
+
+0
+1
+1
+Mechanical
+PAD1_8.0_4.0
+PAD 1-pin 8.0mm*4.0mm
+
+0
+1
+1
+Mechanical
+PAD2_1.0_1.0_1.5
+PAD 2-pin 1.0mm*1.0mm 1.5mm-pitch
+
+0
+2
+2
+Mechanical
+PAD4_1.0_1.0_1.5
+PAD 4-pin 2.0mm*1.0mm 1.5mm-pitch
+
+0
+4
+4
+Mechanical
+PAD6_2.0_1.0_1.5
+PAD 6-pin 2.0mm*1.0mm 1.5mm-pitch
+
+0
+6
+6
+Mechanical
+THD0012-24
+24-pin friction-lock FFC connector 4.1mm*14.1mm, 0.5mm-pitch
+
+0
+26
+24
+Mechanical
+TP_0.5_0.5
+Test point 0.5mm*0.5mm round
+
+0
+1
+1
+Mechanical
+U253-051T
+Flat end micro USB port
+
+0
+9
+4
+Mechanical
+UFL
+Hirose UFL
+
+0
+3
+2
+Mechanical
+VCM_8.5_8.5
+Voice coil motor lens 8.5mm*8.5mm
+
+0
+2
+2
+Mechanical
+VIA12_0.5_8.2_0.7
+VIA12 0.5mm*8.2mm 0.7mm-pitch
+
+0
+12
+12
+Mechanical
+XFMR_24
+Transformer 24mm
+
+0
+4
+4
+Mechanical
+XFMR_EE5_4P
+Transformer 24mm
+
+0
+6
+4
+Mechanical
+XKTF-0803
+Reduced length microSD slot
+
+0
+13
+6
